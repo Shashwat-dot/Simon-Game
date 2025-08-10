@@ -76,11 +76,11 @@ p{
 .wrong{
     background-color: #f00;
 }
-@media screnn and (max-width:451px){
+@media screen and (max-width:451px){
     body{
         background-image:linear-gradient(to right,#07beb8,#3dccc7,#68d8d6,#9ceaef,#c4fff9);
-        align-item:centre;
-        align-text:centre;
+        align-item:center;
+        align-text:center;
     }
     h1{
         font-size:150px;
