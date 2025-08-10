@@ -1,0 +1,78 @@
+body{
+    background-color: #000;
+    color: white;
+}
+h1{
+    position: absolute;
+    top: 0%;
+    left: 41.5%;
+}
+p{
+    position: absolute;
+    font-size: 25px;
+    top: 8%;
+    left: 38.5%;
+}
+.box{
+    margin-right: 25px;
+    height: 200px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 50px;
+}
+.box:hover{
+    cursor: pointer;
+}
+#orange_red{
+    margin-top: 140px;
+}
+#green{
+    margin-top: 140px;
+}
+#blue{
+    margin-top: 20px;
+}
+#yellow{
+    margin-top: 20px;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.orange_red{
+    background-color: orangered;
+    color: orangered;
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+    color: blue;
+    text-align: center;
+}
+.green{
+    background-color: green;
+    color: green;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+    color: yellow;
+    text-align: center;
+}
+.gameflash{
+    background-color: white;
+    color: white;
+}
+.userflash{
+    background-color: greenyellow;
+    color: greenyellow;
+}
+.wrong{
+    background-color: #f00;
+}
